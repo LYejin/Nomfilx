@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://LYejin.github.io/Nomfilx",
+  "homepage": "https://heuristic-archimedes-b33089.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
